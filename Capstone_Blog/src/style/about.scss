@@ -1,0 +1,21 @@
+.about-content > .about-content-left {
+    display: flex;
+    filter: brightness(80%);
+    justify-content: center;
+}
+
+.about-content > .about-content-right > h1 {
+    text-align: center;
+}
+
+.about-content > .about-content-right > p {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    line-height: 175%;
+}
+
+.about-content > .about-content-left img{
+    padding-top: 5%;
+    width: 30%;
+}
